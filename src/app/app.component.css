@@ -1,0 +1,5 @@
+.demo tr td {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-spacing: 0px;
+}
